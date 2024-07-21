@@ -9,9 +9,14 @@ This project is built by us (4 team members) during odoo Hackathon.
 Team Members.
 
 Mr. Meet Patel
+
 Mr. Ravi Sanghani
+
 Mr. Maulik Vara
+
 Mr. Tanmay Shah
+
+
 
 Pages and Features
 Home Page
